@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-file-manager",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "start": "node ./src/start.js -- --username=Username"
+  },
+  "type": "module"
+}
